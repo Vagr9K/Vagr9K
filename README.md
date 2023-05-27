@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://callmeruben.com">
+  <a href="https://callmeruben.com" target="_blank">
     <img src="./logo.svg" width="420">
   </a>
 </p>
