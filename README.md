@@ -1,4 +1,6 @@
-<img src="./logo.svg" width="420">
+<p align="center">
+  <img src="./logo.svg" width="420">
+</p>
 
 # Hi, I'm [Ruben](https://callmeruben.com) 👋
 
