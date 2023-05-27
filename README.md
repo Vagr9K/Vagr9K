@@ -1,4 +1,4 @@
-![Logo](./logo.svg)
+<img src="./logo.svg" width="420">
 
 # Hi, I'm [Ruben](https://callmeruben.com) 👋
 
