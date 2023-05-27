@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./logo.svg" width="420">
+  <a href="https://callmeruben.com">
+    <img src="./logo.svg" width="420">
+  </a>
 </p>
 
 # Hi, I'm [Ruben](https://callmeruben.com) 👋
